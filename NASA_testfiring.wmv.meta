@@ -1,0 +1,46 @@
+NASA_testfiring.wmv
+   General
+      Complete name : NASA_testfiring.wmv
+      Format : Windows Media
+      File size : 3.26 MiB
+      Duration : 28s 261ms
+      Overall bit rate mode : Variable
+      Overall bit rate : 966 Kbps
+      Maximum Overall bit rate : 1 048 Kbps
+      Encoded date : UTC 2007-03-16 19:38:23.437
+      SfOriginalFPS : 299700
+   Video #2
+      ID : 2
+      Format : VC-1
+      Format profile : MP@ML
+      Codec ID : WMV3
+      Codec ID/Info : Windows Media Video 9
+      Codec ID/Hint : WMV3
+      Description of the codec : Windows Media Video 9
+      Duration : 28s 233ms
+      Bit rate mode : Variable
+      Bit rate : 791 Kbps
+      Width : 640 pixels
+      Height : 360 pixels
+      Display aspect ratio : 16:9
+      Frame rate : 29.970 fps
+      Resolution : 24 bits
+      Scan type : Progressive
+      Bits/(Pixel*Frame) : 0.115
+      Stream size : 2.66 MiB (82%)
+      Language : English (US)
+   Audio #1
+      ID : 1
+      Format : WMA2
+      Format profile : L2
+      Codec ID : 161
+      Codec ID/Info : Windows Media Audio 2
+      Description of the codec : Windows Media Audio 9.1 - 160 kbps, 48 kHz, stereo (A/V) 1-pass CBR
+      Duration : 28s 261ms
+      Bit rate mode : Constant
+      Bit rate : 160 Kbps
+      Channel(s) : 2 channels
+      Sampling rate : 48.0 KHz
+      Resolution : 16 bits
+      Stream size : 552 KiB (17%)
+      Language : English (US)
